@@ -22,5 +22,4 @@
   <include name="enigma/cos.xml" />
   <include name="enigma/vendors.xml" />
   <include name="enigma/halsdependancy.xml" />
-  <include name="enigma/coltdevices.xml" />
 </manifest>
