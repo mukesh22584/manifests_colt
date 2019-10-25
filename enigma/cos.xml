@@ -69,6 +69,6 @@
 
 <!-- qcom -->
     <project path="device/qcom/sepolicy" name="platform_device_qcom_sepolicy" remote="colt" revision="c10" />
-
+    <project path="device/qcom/sepolicy-legacy-um" name="platform_device_qcom_sepolicy" remote="colt" revision="c10-legacy-um" />
 
 </manifest>
